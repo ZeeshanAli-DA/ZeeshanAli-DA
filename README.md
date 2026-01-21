@@ -4,10 +4,10 @@
 Welcome to my GitHub profile!  
 I’m passionate about using data to help businesses make better decisions by transforming raw data into clear, actionable insights.
 
-- 📊 Building interactive Power BI dashboards and reports  
-- 🧩 Writing efficient SQL queries and working with structured data models  
-- 📈 Advanced Excel for data analysis, reporting, and automation  
-- 🚀 Continuously improving my skills in data analytics and business intelligence
+📊 Building interactive Power BI dashboards and reports  
+🧩 Writing efficient SQL queries and working with structured data models  
+📈 Advanced Excel for data analysis, reporting, and automation  
+🚀 Continuously improving my skills in data analytics and business intelligence
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights"/>
 
