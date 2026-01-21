@@ -2,7 +2,8 @@
 
 🎯 **Aspiring Data Analyst | Power BI | SQL | Excel**
 
-<hr style="border: 0.1px solid #d3d3d3;">
+<hr style="height:0.3px;border:none;background-color:#e5e5e5;">
+
 
 Welcome to my GitHub profile!  
 I’m passionate about using data to help businesses make better decisions by transforming raw data into clear, actionable insights.
