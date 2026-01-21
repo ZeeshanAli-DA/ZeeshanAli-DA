@@ -2,7 +2,8 @@
 
 🎯 **Aspiring Data Analyst | Power BI | SQL | Excel**
 
-<hr style="height:0.3px;border:none;background-color:#e5e5e5;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
+
 
 
 Welcome to my GitHub profile!  
