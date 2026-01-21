@@ -20,17 +20,17 @@ I’m passionate about using data to help businesses make better decisions by tr
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights"/>
 </p>
 
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 ### 🌐 Connect with me
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zeeshan-ali-a39b39366)
 
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 ### 🛠 Tech Skills
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 ![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
 ![SQL](https://img.shields.io/badge/SQL-blue?logo=mysql)
