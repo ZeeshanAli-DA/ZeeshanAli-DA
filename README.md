@@ -1,4 +1,4 @@
-👋 Hey there, I'm Zeeshan Ali
+# 👋 Hey there, I'm **Zeeshan Ali**
 🎯 Aspiring Data Analyst | Power BI | SQL | Excel  
 
 Welcome to my GitHub profile!  
