@@ -40,9 +40,9 @@ I’m passionate about using data to help businesses make better decisions by tr
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
 
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 ### 📈 GitHub Stats
-<hr style="border: 0.5px solid #d3d3d3;">
+<div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 ![Zeeshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true)
