@@ -30,18 +30,12 @@ I’m passionate about using data to help businesses make better decisions by tr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zeeshan-ali-a39b39366)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ZeeshanAli-DA)
-  <table align="center">
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white" />
-    </td>
-    <td style="padding-left:8px;">
-      <a href="mailto:izeeshan.alee@gmail.com">
-        izeeshan.alee@gmail.com
-      </a>
-    </td>
-  </tr>
-</table>
+  <img src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=white" />
+  <a href="mailto:izeeshan.alee@gmail.com" style="margin-left:8px; color:blue;">
+    izeeshan.alee@gmail.com
+  </a>
+
+
 
 
 
