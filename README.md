@@ -16,8 +16,9 @@ I’m passionate about using data to help businesses make better decisions by tr
 
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
 
-![Data Analyst Animation](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+</p>
 
 
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
