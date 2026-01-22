@@ -29,6 +29,7 @@ I’m passionate about using data to help businesses make better decisions by tr
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zeeshan-ali-a39b39366)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ZeeshanAli-DA)
 
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
 
