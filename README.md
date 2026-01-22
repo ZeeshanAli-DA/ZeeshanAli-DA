@@ -16,7 +16,8 @@ I’m passionate about using data to help businesses make better decisions by tr
 
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Power+BI+%7C+SQL+%7C+Excel;Turning+Data+into+Insights"/>
+
 
 
 <div style="height:0.2px;background-color:#e6e6e6;"></div>
